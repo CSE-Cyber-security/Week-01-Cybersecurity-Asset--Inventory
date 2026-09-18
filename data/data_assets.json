@@ -1,0 +1,22 @@
+[
+    {
+        "id": "A102",
+        "name": "web-server",
+        "type": "server",
+        "ip_address": "192.168.1.20",
+        "department": "IT",
+        "operating_system": "Ubuntu",
+        "risk_level": "Critical",
+        "security_level": "Vulnerable"
+    },
+    {
+        "id": "A103",
+        "name": "Core-Router",
+        "type": "Router",
+        "ip_address": "192.168.1.1",
+        "department": "Network",
+        "operating_system": "Cisco IOS",
+        "risk_level": "high",
+        "security_level": "warning"
+    }
+]
